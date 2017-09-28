@@ -1,0 +1,10 @@
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\bin\Debug\netcoreapp2.0\TommiTuomas.deps.json
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\bin\Debug\netcoreapp2.0\TommiTuomas.runtimeconfig.json
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\bin\Debug\netcoreapp2.0\TommiTuomas.runtimeconfig.dev.json
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\bin\Debug\netcoreapp2.0\TommiTuomas.dll
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\bin\Debug\netcoreapp2.0\TommiTuomas.pdb
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\obj\Debug\netcoreapp2.0\TommiTuomas.csproj.CoreCompileInputs.cache
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\obj\Debug\netcoreapp2.0\TommiTuomas.AssemblyInfoInputs.cache
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\obj\Debug\netcoreapp2.0\TommiTuomas.AssemblyInfo.cs
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\obj\Debug\netcoreapp2.0\TommiTuomas.dll
+C:\Omat tiedostot\TiVi\Servut\TommiTuomas\obj\Debug\netcoreapp2.0\TommiTuomas.pdb
