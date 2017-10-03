@@ -23,7 +23,7 @@ namespace TommiTuomas.Controllers
         [HttpGet("{pos}")]
         public string GetMessage(int pos)
         {
-            return _processor.GetMessage(pos).Comment;
+            return String.Format("{0} {1}: {2}",  _processor.GetMessage(pos).Timestamp, _processor.GetMessage(pos).Nickname, _processor.GetMessage(pos).Comment);
         }
 
         [HttpGet]

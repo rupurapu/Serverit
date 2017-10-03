@@ -14,9 +14,10 @@ namespace TommiTuomas.Processors
 
         public void PostMessage(NewMessage msg, int pos) {
             Message _message = new Message() {
-                Comment = msg.Comment
+                Nickname = msg.Nickname,
+                Comment = msg.Comment,
+                Timestamp = DateTime.Now.ToString("HH:mm")//yyyyMMddHHmmssffff
             };
-
             _repository.PostMessage(_message, pos);
         }
 
@@ -30,7 +31,7 @@ namespace TommiTuomas.Processors
             string palautus = "";
 
             for (int i = 0; i < pituus; i++) {
-                palautus += kaikki[i].Comment + "\n";
+                palautus += kaikki[i].Timestamp + " " + kaikki[i].Nickname + ": " + kaikki[i].Comment + "\n";
             }
 
             return palautus;

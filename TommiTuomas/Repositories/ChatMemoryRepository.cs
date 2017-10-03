@@ -12,7 +12,6 @@ namespace TommiTuomas.Repositories
         }
 
         public Message GetMessage(int pos) {
-            Console.WriteLine("perkele");
             return _muisti[pos];
         }
 
